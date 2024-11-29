@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Textra'
-copyright = '2024, GIIA'
+project = 'GeneCure'
+copyright = '2025, GIIA'
 author = 'GIIA'
 
 # -- General configuration ---------------------------------------------------
