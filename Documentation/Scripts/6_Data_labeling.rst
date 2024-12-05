@@ -10,8 +10,12 @@ To be able to label each DNA sequence, it is necessary to link the DNA sequences
 ----------
 
 Labeling the sequence based on the number of CAG repeats:
+
 - CAGcount < = 35: Normal
+
 - 36 < = CAGcount < = 39: Intermediate
+
 - 40 < = CAGcount < = 55: Reduced_Penetrance
+
 - Sinon: Full_Mutation
 
