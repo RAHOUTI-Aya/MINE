@@ -9,7 +9,7 @@ To be able to label each DNA sequence, it is necessary to link the DNA sequences
 6.2  Labeling:
 ----------
 
-Labeling the sequence based on the number of CAG repeats:
+Labeling the sequences based on the number of CAG repeats:
 
 - CAGcount < = 35: Normal
 
