@@ -1,7 +1,7 @@
 5. DATA format : 
 ===========
 
-.. figure:: /Documentation/Images/format.png
+.. figure:: /Documentation/Images/Format.png
    :width: 100%
    :align: center
    :alt: Alternative text for the image
