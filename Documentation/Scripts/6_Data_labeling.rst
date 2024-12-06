@@ -20,23 +20,23 @@ To be able to label each DNA sequence, it is necessary to link the DNA sequences
 - Sinon: Full_Mutation
 
 .. code-block:: python
-    
+
     def calculate_cag_repeats(sequence):
-    """Calculates the number of CAG repeats in a DNA sequence"""
+    """Calculating the number of CAG repeats in a DNA sequence"""
 
     repeats = re.findall(r'(CAG)', sequence)
     repeat_count = len(repeats)
     return repeat_count
 
     def label_sequence(repeat_count):
-    """Label the sequence based on the number of CAG repeats"""
-    if repeat_count <= 35:
+    """Labeling the sequence based on the number of CAG repeats"""
+      if repeat_count <= 35:
         return 'Normal'
-    elif 36 <= repeat_count <= 39:
+      elif 36 <= repeat_count <= 39:
         return 'Intermediate'
-    elif 40 <= repeat_count <= 55:
+      elif 40 <= repeat_count <= 55:
         return 'Reduced_Penetrance'
-    else:
+      else:
         return 'Full_Mutation'
 
 
