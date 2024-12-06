@@ -14,5 +14,7 @@ Welcome to our GeneCure project!
    Documentation/Scripts/6_Data_labeling.rst
    Documentation/Scripts/7_Features_extraction.rst
    Documentation/Scripts/8_Results.rst
+   Documentation/Scripts/9_Restriction_enzymes.rst
+
 
 
