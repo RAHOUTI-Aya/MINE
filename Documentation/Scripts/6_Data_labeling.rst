@@ -20,6 +20,7 @@ To be able to label each DNA sequence, it is necessary to link the DNA sequences
 - Sinon: Full_Mutation
 
 .. code-block:: python
+    
     def calculate_cag_repeats(sequence):
     """Calculates the number of CAG repeats in a DNA sequence"""
 
