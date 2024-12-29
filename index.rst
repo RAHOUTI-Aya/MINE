@@ -5,7 +5,7 @@ Welcome to our GeneCure project!
    :width: 100%
    :align: center
    :alt: Alternative text for the image
-   :name: Logo
+   :name: Newlogo
 
 .. toctree::
    :maxdepth: 2
