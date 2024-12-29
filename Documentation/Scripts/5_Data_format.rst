@@ -1,5 +1,8 @@
-5. DATA format : 
-===========
+5. DATA acquisition : 
+======================
+
+DATA format:
+----------
 
 .. figure:: /Documentation/Images/Format.png
    :width: 100%
@@ -8,3 +11,7 @@
    :name: Format
    
 The chosen data format is textual for it is more flexible, and allows more medical medical progresses visualization and applications afterwards.
+
+Synthetic DNA:
+----------
+
