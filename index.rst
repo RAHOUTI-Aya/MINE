@@ -1,6 +1,11 @@
 Welcome to our GeneCure project!
 ====================================
 
+.. figure:: /Documentation/Images/logo.png
+   :width: 100%
+   :align: center
+   :alt: Alternative text for the image
+   :name: Logo
 
 .. toctree::
    :maxdepth: 2
