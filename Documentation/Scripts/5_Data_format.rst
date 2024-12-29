@@ -15,3 +15,5 @@ The chosen data format is textual for it is more flexible, and allows more medic
 Synthetic DNA:
 ----------
 
+Due to the lack of data ressources, we deemed necessary to add synthetic DNA sequences to have enough data to train our model with.
+
