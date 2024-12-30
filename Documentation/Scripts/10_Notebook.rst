@@ -1,9 +1,9 @@
 Notebooks
 =========
 
-Voici notre notebook Jupyter pour l'analyse de données :
+Notebooks
+=========
 
-.. toctree::
-   :maxdepth: 1
+Open our notebook on colab:
 
-   Notebooks/projectDNAbert.ipynb
+`Ouvrir le notebook dans Google Colab <https://colab.research.google.com/drive/1uKdf19aJzpgQvkqOb1wFHqLpYtp2pRRF?usp=sharing>`_
