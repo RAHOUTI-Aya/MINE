@@ -1,4 +1,4 @@
-# Project title: GeneCure: Genomic mutation prediction (HUNTINGTON disease)
+# GeneCure: Genomic mutation prediction (HUNTINGTON disease)
 
 Welcome to the our project! This project aims to identify and predict mutations in DNA sequences, specifically focusing on Huntington's disease. The project utilizes AI and machine learning techniques to analyze DNA sequences and predict mutation risks based on specific patterns.
 
