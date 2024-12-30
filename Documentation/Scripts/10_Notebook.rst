@@ -7,8 +7,11 @@ To explore our data analysis workflow, simply click on the link below. You will 
 
 **What’s in the notebook:**
 - **Data Loading**: We demonstrate how to load and process datasets.
+
 - **Data Exploration**: Visualize and explore the data with interactive plots.
+
 - **Machine Learning Models**: Implement and evaluate various models to understand the results.
+
 - **Results**: We present the final outcomes and analyses from our models.
 
 By using Google Colab, you can also easily collaborate with us or anyone else, as the notebook is stored online and can be shared in real-time.
