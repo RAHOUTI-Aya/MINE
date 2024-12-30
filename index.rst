@@ -20,6 +20,7 @@ Welcome to our GeneCure project!
    Documentation/Scripts/7_Features_extraction.rst
    Documentation/Scripts/8_Results.rst
    Documentation/Scripts/9_Restriction_enzymes.rst
+   Documentation/Scripts/10_Notebook.rst
 
 
 
