@@ -23,4 +23,3 @@ Welcome to our GeneCure project!
    Documentation/Scripts/10_Notebook.rst
 
 
-

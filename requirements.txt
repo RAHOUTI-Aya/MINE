@@ -1,2 +1,7 @@
 sphinx
 sphinx-rtd-theme==1.3.0
+nbsphinx
+ipython  # Pour exécuter des notebooks avec du code Python
+matplotlib  # Si vos notebooks contiennent des graphiques
+pandas  # Si vous travaillez avec des tableaux ou des DataFrames
+notebook  # Pour une compatibilité complète avec les notebooks Jupyter

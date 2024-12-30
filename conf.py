@@ -13,8 +13,11 @@ author = 'GIIA'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
-
+extensions = [
+    'nbsphinx',  # Ajoute l'extension pour intégrer les notebooks Jupyter
+    'sphinx.ext.mathjax',  # Permet d'afficher les mathématiques en LaTeX
+    'sphinx.ext.githubpages',  # Permet la publication sur GitHub Pages
+]
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
@@ -25,3 +28,4 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
+nbsphinx_execute = 'never'  # Ne pas exécuter les notebooks (si vous souhaitez que les notebooks ne soient pas exécutés à chaque génération)
