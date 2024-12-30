@@ -6,6 +6,7 @@ We have made our Jupyter notebook available for easy access and execution via Go
 To explore our data analysis workflow, simply click on the link below. You will be directed to Google Colab, where you can interact with the notebook, run the cells, and even modify the code for your own analysis.
 
 **What’s in the notebook:**
+
 - **Data Loading**: We demonstrate how to load and process datasets.
 
 - **Data Exploration**: Visualize and explore the data with interactive plots.
